@@ -1,2 +1,2 @@
-# jambor13.guthub.io
+# jambor13.github.io
 Esküvői weboldal
